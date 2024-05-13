@@ -1,0 +1,20 @@
+output   = "app/models"
+add-enum-types = true
+wipe     = true
+no-tests = true
+
+[auto-columns]
+    created = "created_at"
+    updated = "updated_at"
+
+[psql]
+    dbname = "dev"
+    host   = "localhost"
+    port   = "5432"
+    user   = "postgres"
+    pass   = ""
+    schema = "public"
+    blacklist = []
+    sslmode = "disable"
+
+

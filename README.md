@@ -1,4 +1,4 @@
-# Go Auth
+# Go Clinique
 
 <!-- https://github.com/hrshadhin/fiber-go-boilerplate -->
 
